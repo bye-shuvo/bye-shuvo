@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bye-shuvo&label=Profile%20views&color=0e75b6&style=flat" alt="bye-shuvo" /> </p>
 
-- 🌱 I’m currently learning **React-three-fiber and 3D animations**
+- 🌱 I’m currently learning **Rive , socket.io and server deployments**
 
-- 💬 Ask me about **React, Tailwind CSS , JavaScript**
+- 💬 Ask me about **React, Tailwind CSS , JavaScript , node.js , express.js , mongoDB**
 
 - 📫 How to reach me **abuhasnatshuvo605@gmail.com**
 
