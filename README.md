@@ -40,33 +40,6 @@ I'm a passionate **Frontend Developer** from Bangladesh 🇧🇩, dedicated to c
 
 ## 🚀 Featured Projects
 
-### 🎫 [Ticket Ninja](https://github.com/bye-shuvo/Ticket-Ninja)
-A comprehensive ticket booking system with interactive seat selection and real-time availability updates.
-
-**Tech Stack:** React, JavaScript, CSS3
-- ✨ Interactive seat selection interface
-- 🔄 Real-time availability updates
-- 💳 Secure payment integration
-- 📱 Responsive design
-
-### 🛍️ [RD Store](https://rdstore.pages.dev/)
-A modern e-commerce platform showcasing products with seamless user experience.
-
-**Tech Stack:** React, Tailwind CSS, JavaScript
-- 🛒 Product catalog with search and filtering
-- 👤 User authentication system
-- 📱 Mobile-first responsive design
-- ⚡ Fast loading and smooth animations
-
-### 🎨 [Fancy Slider](https://github.com/bye-shuvo/Fancy-Slider)
-An elegant image slider with smooth transitions and customizable settings.
-
-**Tech Stack:** JavaScript, CSS3, HTML5
-- 🎭 Multiple transition effects
-- ⏯️ Autoplay functionality
-- 🎛️ Customizable settings
-- 📱 Touch-friendly interface
-
 ### 📝 [Note App](https://github.com/bye-shuvo/Note-App)
 A simple yet powerful note-taking application for organizing thoughts and ideas.
 
