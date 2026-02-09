@@ -14,10 +14,10 @@ I'm Shuvo, a frontend developer who believes the best way to learn is to build�
 - 🎓 **FEC ClubHub** - Managing college clubs and events
 - 🤖 **Rice Disease Detection** - CNN model using TensorFlow
 
-I also serve as Organizing Secretary for [Club Name], coordinating events and teams. Turns out, debugging merge conflicts is easier than organizing people—but both teach you problem-solving.
+I also serve as Organizing Secretary for [Faridpur Engineering College Software Development Club], coordinating events and teams. Turns out, debugging merge conflicts is easier than organizing people—but both teach you problem-solving.
 
 Currently focused on building practical, real-world applications that actually get used. Always learning, always shipping.
 
 📍 Based in Bangladesh  
-🔗 [Portfolio](#) | [LinkedIn](#)  
+🔗 [Portfolio](byeshuvo.vercel.app) | [LinkedIn](www.linkedin.com/in/byeshuvo)  
 💼 Open to collaboration
