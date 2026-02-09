@@ -1,23 +1,22 @@
-## Hey there! 👋
+# 👨‍💻 Frontend Developer | React Enthusiast
 
-I'm Shuvo, a frontend developer who believes the best way to learn is to build—so that's what I do.
+Building web applications that solve real problems.
+```
+💻 React • JavaScript • TailwindCSS
+🔧 Express • MongoDB • Socket.io
+🚀 Vercel • Cloudflare • Firebase
+```
 
-### What I build with:
-**Frontend:** React • JavaScript • TailwindCSS  
-**Backend:** Express • MongoDB • MySQL  
-**Deployment:** Vercel • Cloudflare  
-**Integrations:** Socket.io • Firebase Auth • Gemini API
+### 🚀 Live Projects
+- [AgroSync](https://agrosyncbd.vercel.app/) - AI for farmers
+- [ChatSync](https://chatsyncio.vercel.app/) - Real-time chat
+- [FEC ClubHub](https://fec-clubhub.vercel.app/) - Club management
 
-### Recent builds:
-- 🌾 **AgroSync** - Helping farmers with AI-powered tools
-- 💬 **ChatSync** - Real-time messaging platform
-- 🎓 **FEC ClubHub** - Managing college clubs and events
-- 🤖 **Rice Disease Detection** - CNN model using TensorFlow
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bye-shuvo&show_icons=true&theme=dark)
 
-I also serve as Organizing Secretary for [Faridpur Engineering College Software Development Club], coordinating events and teams. Turns out, debugging merge conflicts is easier than organizing people—but both teach you problem-solving.
+🌱 Currently learning: Advanced React patterns, real-time architectures  
+🎯 Role: Organizing Secretary @ [College Club]  
 
-Currently focused on building practical, real-world applications that actually get used. Always learning, always shipping.
-
-📍 Based in Bangladesh  
-🔗 [Portfolio](byeshuvo.vercel.app) | [LinkedIn](www.linkedin.com/in/byeshuvo)  
-💼 Open to collaboration
+📫 **Let's connect:**  
+🌐 [Portfolio](https://byeshuvo.vercel.app) | 💼 [LinkedIn](https://www.linkedin.com/in/byeshuvo)
