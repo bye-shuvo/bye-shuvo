@@ -3,10 +3,14 @@
 I'm Shuvo, a frontend developer who believes the best way to learn is to build—so that's what I do.
 
 ### What I build with:
-**Frontend:** React • JavaScript • TailwindCSS  
-**Backend:** Express • MongoDB • MySQL  
-**Deployment:** Vercel • Cloudflare  
-**Integrations:** Socket.io • Firebase Auth • Gemini API
+**Frontend:** React • JavaScript • TailwindCSS • GSAP
+**Backend:** Express • MongoDB • MySQL 
+**Languages:** Javascript • Typescript • Java • C
+**Database:** MongoDB • MySQL 
+**Deployment:** Vercel • Cloudflare 
+**Integrations:** Socket.io • Firebase Auth • Gemini API • Xterm.js • Monaco Editor • Tippy.js
+**Tools:** Git • Github • Maplibregl • openfreemap
+**UI Tools:** Leonardo AI • Metarial UI
 
 ### Recent builds:
 - 🌾 **AgroSync** - Helping farmers with AI-powered tools
@@ -14,7 +18,7 @@ I'm Shuvo, a frontend developer who believes the best way to learn is to build�
 - 🎓 **FEC ClubHub** - Managing college clubs and events
 - 🤖 **Rice Disease Detection** - CNN model using TensorFlow
 
-I also serve as Organizing Secretary for [Club Name], coordinating events and teams. Turns out, debugging merge conflicts is easier than organizing people—but both teach you problem-solving.
+I also serve as Organizing Secretary for [Faridpur Engineering College Software Development Club], coordinating events and teams. Turns out, debugging merge conflicts is easier than organizing people—but both teach you problem-solving.
 
 Currently focused on building practical, real-world applications that actually get used. Always learning, always shipping.
 
