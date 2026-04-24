@@ -3,14 +3,14 @@
 I'm Shuvo, a frontend developer who believes the best way to learn is to build—so that's what I do.
 
 ### What I build with:
-**Frontend:** React • JavaScript • TailwindCSS • GSAP\
-**Backend:** Express • MongoDB • MySQL\
+**Frontend:** React • TailwindCSS • GSAP\
+**Backend:** Express\
 **Languages:** Javascript • Typescript • Java • C\
 **Database:** MongoDB • MySQL\
 **Deployment:** Vercel • Cloudflare • Render\
-**Integrations:** Socket.io • Firebase Auth • Gemini API • Xterm.js • Monaco Editor • Tippy.js • yjs • y-monaco\
+**Integrations:** Socket.io • Firebase Auth • Gemini API • Xterm.js • Monaco Editor • Tippy.js • yjs • y-monaco • y-websocket\
 **Tools:** Git • Github • Maplibregl • openfreemap\
-**UI Tools:** Leonardo AI • Metarial UI\
+**UI Tools:** Leonardo AI • Metarial UI
 
 ### Recent builds:
 - 🌾 **AgroSync** - Helping farmers with AI-powered tools
