@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Shuvo, a frontend developer who believes the best way to learn is to build—so that's what I do.
+I'm Shuvo, a frontend developer loves to build things that lasts.
 
 ### What I build with:
 **Frontend:** React • TailwindCSS • GSAP\
