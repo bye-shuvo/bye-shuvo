@@ -9,10 +9,12 @@ I'm Shuvo, a frontend developer loves to build things that lasts.
 **Database:** MongoDB • MySQL\
 **Deployment:** Vercel • Cloudflare • Render\
 **Integrations:** Socket.io • Firebase Auth • Gemini API • Xterm.js • Monaco Editor • Tippy.js • yjs • y-monaco • y-websocket\
-**Tools:** Git • Github • Maplibregl • openfreemap\
+**Tools:** Git • Github • Maplibregl • openfreemap • Unified processor • Remark-gfm\
 **UI Tools:** Leonardo AI • Metarial UI
 
 ### Recent builds:
+- ⚡**Revoirt** - A Collaborative Code Editor For Developers 
+- ⌨️ **HowILearnedIt - Blog Posts That Helps To Build Things Using AI Automation
 - 🌾 **AgroSync** - Helping farmers with AI-powered tools
 - 💬 **ChatSync** - Real-time messaging platform
 - 🎓 **FEC ClubHub** - Managing college clubs and events
