@@ -14,7 +14,7 @@ I'm Shuvo, a frontend developer loves to build things that lasts.
 
 ### Recent builds:
 - ⚡**Revoirt** - A Collaborative Code Editor For Developers 
-- ⌨️ **HowILearnedIt - Blog Posts That Helps To Build Things Using AI Automation
+- ⌨️ **HowILearnedIt** - Blog Posts That Helps To Build Things Using AI Automation
 - 🌾 **AgroSync** - Helping farmers with AI-powered tools
 - 💬 **ChatSync** - Real-time messaging platform
 - 🎓 **FEC ClubHub** - Managing college clubs and events
